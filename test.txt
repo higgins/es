@@ -1,0 +1,1 @@
+What|Qué|(a,b) => a.toLowerCase().replace(/é/, 'e') === b.toLowerCase().replace(/é/, 'e')
