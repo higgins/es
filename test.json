@@ -1,8 +1,6 @@
-[
-    {
-        type: 'input',
-        prompt: 'What',
-        answer: 'Qué',
-        validator: 'console.log'
-    }
-]
+[{
+	"type": "input",
+	"prompt": "What",
+	"answer": "Qué",
+	"validator": "console.log"
+}]
