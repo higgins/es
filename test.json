@@ -3,4 +3,8 @@
 	"prompt": "What",
 	"answer": "Qué",
 	"validator": "console.log"
+}, {
+	"type": "input-image",
+	"prompt": "test invalid type",
+	"answer": "true"
 }]
